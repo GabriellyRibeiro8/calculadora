@@ -15,8 +15,6 @@
             <input type="text" name="n2" id="">
 
             <input type="submit" name="operacao" value="+"> <input type="submit" name="operacao" value="-"> <input type="submit" name="operacao" value="*"> <input type="submit" name="operacao" value="/">
-
-
-
+            
 </body>
 </html>

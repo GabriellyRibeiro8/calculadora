@@ -18,7 +18,6 @@ function div($num1, $num2){
          }else{
             $res3= $num1 / $num2;
          }
-
     return $res3;
 
 }
